@@ -3,6 +3,8 @@
 This repo holds the content for [CodingDojo.org](http://codingdojo.org/) and some tools
 to help you work on the site locally.
 
+
+
 ## Contributing
 
 If you want to contribute, first fork the repo at [GitHub](https://github.com/codingdojo-org/codingdojo.org).
